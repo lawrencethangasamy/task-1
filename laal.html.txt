@@ -1,0 +1,21 @@
+<html>
+<head>
+<title>KTM</title>
+</head>
+<h1>KING OF KTM</h1>
+<body>
+<p1> <b> KTM </b> AG is an Austrian motorcycle, bicycle and sports car manufacturer owned by Pierer Mobility AG 
+& <em>Indian</em> manufacturer <mark>Bajaj Auto International Holdings BV.</mark> 
+It was formed in <u>1992</u> but traces its foundation to as early as <u>1934.</u></p1><br><br>
+<img src="https://imgd.aeplcdn.com/1280x720/n/cw/ec/129791/ktm-200-duke-left-front-three-quarter1.png?isig=0&q=75" width="600px" height="300px" alt="KTM">
+<br>
+<p2>
+<ul>
+<li>The new Ceramic White colour scheme of the <del> 100cec</del> <ins>125cec</ins> Duke is the swankiest among all the new colours ofits bigger siblings.</li>
+<li>It <i> sports</i> a white shade on its headlamp cowl, fuel tank, and sub-frame. </li>
+<li>Meanwhile, <i>the tail section and alloy wheels are finished in vibrant orange.</li></i>
+<li>This paint scheme will be sold alongside Electronic Orange which has been in the market for a while now <mark>.<em>king the KTM.</um></li></ul></mark>
+</p2>
+
+</body>
+</html>
